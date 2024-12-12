@@ -8,7 +8,3 @@ class CustomData:
 
 class Airbnb:
     pass
-
-
-class Airbnb:
-    pass
